@@ -14,6 +14,9 @@ int main() {
 
     Circuito prova;
     prova.coniLogici();
+
+
+    //questa è una prova di commit
     /*
 
     do {
